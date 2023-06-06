@@ -1,3 +1,4 @@
+// Host api link : https://apiproduct-production.up.railway.app/api/products
 const express = require("express");
 const app = express()
 const PORT = process.env.PORT || 5000
