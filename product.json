@@ -30,6 +30,110 @@
         "name":"samsung m12",
         "price":8999,
         "company":"samsung"
+    },
+    
+    {
+        "name":"iphone13",
+        "price":12354,
+        "featured":true,
+        "company":"apple"
+    },
+    {
+        "name":"mi watch",
+        "price":100,
+        "company":"mi"
+    },
+    {
+        "name":"samsung A23",
+        "price":92222,
+        "company":"samsung"
+    },
+    {
+        "name":"iphone14 mini",
+        "price":190022,
+        "featured":true,
+        "company":"apple"
+    },
+    {
+        "name":"hp watch",
+        "price":230,
+        "company":"hp"
+    },
+    {
+        "name":"samsung s23",
+        "price":999990,
+        "company":"samsung"
+    },
+
+    {
+        "name":"iphone17",
+        "price":11543,
+        "featured":true,
+        "company":"apple"
+    },
+    {
+        "name":"mi 22",
+        "price":1020,
+        "company":"mi"
+    },
+    {
+        "name":"galaxy 12",
+        "price":3902,
+        "company":"samsung"
+    },
+    {
+        "name":"iphone3",
+        "price":154,
+        "featured":true,
+        "company":"apple"
+    },
+    {
+        "name":"hp 22",
+        "price":1220,
+        "company":"hp"
+    },
+    {
+        "name":"galaxy note 12",
+        "price":18999,
+        "company":"samsung"
+    },
+    
+    {
+        "name":"iphone18",
+        "price":123354,
+        "featured":true,
+        "company":"apple"
+    },
+    {
+        "name":"mi watch",
+        "price":100,
+        "company":"mi"
+    },
+    {
+        "name":"samsung A23",
+        "price":92222,
+        "company":"samsung"
+    },
+    {
+        "name":"iphone14 mini",
+        "price":190022,
+        "featured":true,
+        "company":"apple"
+    },
+    {
+        "name":"hp watch",
+        "price":230,
+        "company":"hp"
+    },
+    {
+        "name":"samsung s23",
+        "price":99990,
+        "company":"samsung"
+    },
+    {
+        "name":"samsung new s33",
+        "price":999992,
+        "company":"samsung"
     }
 ]
 
