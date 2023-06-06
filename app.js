@@ -6,7 +6,7 @@ require("dotenv").config()
 const product_routes = require("./routes/products")
 const connectDB = require("./db/connect")
 app.get('/', (req, res) => {
-    res.send("This is api home page")
+    res.send("Add /api/products in current URL so you can see API")
 })
 
 // middleware for set routes
