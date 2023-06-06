@@ -1,0 +1,35 @@
+[
+    {
+        "name":"iphone10",
+        "price":1154,
+        "featured":true,
+        "company":"apple"
+    },
+    {
+        "name":"watch",
+        "price":100,
+        "company":"mi"
+    },
+    {
+        "name":"samsung s22",
+        "price":902,
+        "company":"samsung"
+    },
+    {
+        "name":"iphone8",
+        "price":1254,
+        "featured":true,
+        "company":"apple"
+    },
+    {
+        "name":"watch",
+        "price":1020,
+        "company":"hp"
+    },
+    {
+        "name":"samsung m12",
+        "price":8999,
+        "company":"samsung"
+    }
+]
+
